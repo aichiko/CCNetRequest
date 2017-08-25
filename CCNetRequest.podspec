@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "CCNetRequest.podspec"
+  s.name         = "CCNetRequest"
   s.version      = "0.0.1"
   s.summary      = "A short description of CCNetRequest.podspec."
 
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                    screenshots
+                    CCNetRequest
                    DESC
 
   s.homepage     = "https://github.com/aichiko/CCNetRequest"

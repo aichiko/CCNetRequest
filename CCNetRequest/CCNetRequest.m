@@ -6,7 +6,7 @@
 //  Copyright © 2016年 24hmb. All rights reserved.
 //
 
-#import "CCMeetListingRequest.h"
+#import "CCNetRequest.h"
 
 @interface CCNetRequest (manager)
 +(AFHTTPSessionManager *)manager;
